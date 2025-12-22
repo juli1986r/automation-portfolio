@@ -20,9 +20,10 @@ This portfolio showcases **real automation use cases** built with:
 - Error handling & audit logs
 
 📂 Projects:
-- Power Automate — Approval & Notification Flow
-- Power Automate — Data Validation & Routing
 
+📂 **Approval & Notification Flow**  
+Automated approval process with conditional routing and notifications  
+➡️ power-automate/approval-flow
 ---
 
 ### 🔁 n8n / Make
