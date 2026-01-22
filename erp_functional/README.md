@@ -1,4 +1,4 @@
-🚀 Caso de Éxito – ERP | Procesos Operativos Integrales 🚀
+🚀 Caso de Éxito – ERP Modulo Sap| Procesos Operativos Integrales 🚀
 
 🚀 Problema Detectado 🚀  
 La organización gestionaba sus procesos operativos (ventas, compras, inventario y finanzas) a través de herramientas aisladas, planillas manuales y procedimientos no estandarizados.
@@ -10,12 +10,12 @@ Esta situación generaba:
 - Dificultad para conocer el estado real de las operaciones.
 - Alta dependencia de controles manuales y reprocesos.
 
-El negocio no contaba con una visión integral ni confiable de su operación diaria.
+El negocio no contaba con una visión integral ni confiable de su operación diaria. (Problematica 1)
 
 🚀 Relevamiento de Requerimientos 🚀  
 El relevamiento funcional se realizó mediante reuniones y entrevistas con usuarios de las áreas de Ventas, Compras, Inventario y Finanzas, y referentes de negocio, con el objetivo de entender cómo se ejecutaban los procesos operativos y por qué se producían los errores detectados.
 
-Durante las entrevistas se identificó que cada área operaba con criterios propios, sin reglas de negocio documentadas ni validaciones comunes. Los usuarios manifestaron dificultades para coordinar tareas entre áreas y para confiar en la información disponible.
+Durante las entrevistas se identificó que cada área operaba con criterios propios, sin reglas de negocio documentadas ni validaciones comunes. Los usuarios manifestaron dificultades para coordinar tareas entre áreas y para confiar en la información disponible. (Problema 2)
 
 🚀 Situación Actual Relevada 🚀  
 A partir del relevamiento se detectó que:
