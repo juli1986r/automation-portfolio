@@ -62,8 +62,8 @@ Quedaron fuera de alcance módulos avanzados de reporting y funcionalidades comp
 
 ---
 
-🚀 Diagramación en UML y BPMN 🚀  
-Como resultado del análisis, se elaboraron diagramas UML y BPMN para representar los procesos AS-IS y TO-BE, los casos de uso por módulo y la interacción entre áreas y el ERP, permitiendo validar visualmente la solución propuesta.
+🚀 Diagramación en UML Funcional y Caso de Uso con actores 🚀  
+Como resultado del análisis, se elaboraron diagramas UML, para representar los procesos AS-IS y TO-BE, los casos de uso por módulo y la interacción entre áreas y el ERP, permitiendo validar visualmente la solución propuesta.
 
 ---
 
