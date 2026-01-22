@@ -1,4 +1,4 @@
-🚀 Caso de Éxito – ERP Modulo Sap| Procesos Operativos Integrales 🚀
+🚀 Caso de Éxito – ERP Modulo Sap| Procesos Operativos Integrales Productos Proteccion Persona PP, Accidentes Personales 🚀
 
 🚀 Problema Detectado 🚀  
 La organización gestionaba sus procesos operativos (ventas, compras, inventario y finanzas) a través de herramientas aisladas, planillas manuales y procedimientos no estandarizados.
